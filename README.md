@@ -13,8 +13,8 @@ Proyecto final de la materia **Procesamiento Masivo de Datos**.
 
 ## Integrantes
 
-- [Tu nombre]
-- [Nombre de tu compañera]
+- Dylan Drouet
+- Daniela Mora
 
 ## Objetivo
 
